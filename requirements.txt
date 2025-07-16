@@ -1,0 +1,12 @@
+streamlit==1.34.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+Pillow==10.3.0
+deepface==0.0.89
+tqdm==4.66.4
+pandas==2.2.2
+gdown==5.1.0
+matplotlib==3.8.4
+tensorflow-cpu==2.16.1
+keras==3.3.3
+scikit-learn==1.4.2
